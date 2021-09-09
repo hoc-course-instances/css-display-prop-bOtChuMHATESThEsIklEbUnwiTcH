@@ -1,0 +1,47 @@
+body {
+   background-color: rgb(51, 255, 0);
+   border: bisque 40px solid;
+   padding: 30px;
+}
+.beeg {
+background-color: blueviolet;
+padding: 20px;
+}
+
+.smol {
+background-color: brown;
+padding: 14px;
+margin: 20px;
+color: beige;
+}
+
+.blok {
+padding: 46px;
+background-color: deeppink;
+margin: 20px;
+
+
+
+}
+h3 {
+color: gold;
+
+}
+
+.box {
+background-color: gray;
+color: honeydew;
+padding: 7px;
+border: khaki 3px solid;
+display: inline;
+margin: 5px;
+}
+
+
+.copper {
+color: honeydew;
+background-color: indigo;
+padding-bottom: 60px;
+margin: 40px;
+display: inline;
+}
